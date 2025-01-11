@@ -32,7 +32,7 @@ A simple and interactive web-based screen recorder application that allows users
 
 ### Screen Recorder Demo
 
-![Screen Recorder Demo](https://chirag9528.netlify.app)
+[Screen Recorder Demo](https://chirag9528.netlify.app)
 
 
 
